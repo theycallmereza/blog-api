@@ -4,7 +4,7 @@
 
 #Custim Git Ignore
 .idea
-
+venv
 ### Django ###
 *.log
 *.pot
